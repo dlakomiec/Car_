@@ -1,0 +1,10 @@
+.buttonPriceWrapper {
+  padding: 0 49px 26px 49px;
+}
+.buttonPrices {
+  padding: 14px 87px;
+  border-radius: 10px;
+  color: #4eadff;
+  border: 1px solid #4eadff;
+  background-color: white;
+}

@@ -1,0 +1,14 @@
+.dreamCar {
+  width: 70%;
+  background-color: #4eadff;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 10px;
+  padding-bottom: 70px;
+}
+
+.dreamCarText {
+  font-size: 36px;
+  color: white;
+  padding: 30px;
+}

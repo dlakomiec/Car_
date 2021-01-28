@@ -1,0 +1,37 @@
+.fieldDiagnostic {
+  width: 330px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.028), 0 12.5px 10px rgba(0, 0, 0, 0.035),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.042), 0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    0 100px 80px rgba(0, 0, 0, 0.07);
+  margin-right: 40px;
+}
+
+.fieldDiagnosticWrapper {
+  display: flex;
+  align-items: center;
+  padding: 28px 89px 30px 30px;
+}
+
+.fieldDiagnosticText {
+  margin-left: 50px;
+  line-height: 23px;
+}
+
+.fieldDiagnosticPhoto {
+  background-image: url("../../../images/1.png");
+  background-repeat: no-repeat;
+  height: 79px;
+  width: 79px;
+}
+
+.fieldDiagnosticDesription {
+  font-size: 14px;
+  line-height: 22px;
+  margin: 0px 89px 90px 30px;
+  border-top: 1px solid #4eadff;
+  padding-top: 70px;
+  padding-bottom: 80px;
+
+  text-align: center;
+}

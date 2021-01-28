@@ -1,0 +1,94 @@
+.location {
+  margin-top: 130px;
+
+  height: 650px;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.locationLeft {
+  margin-left: 30%;
+}
+
+.locationRight {
+  background-image: url("../../images/maps.png");
+}
+
+.locationLeftText {
+  margin-top: 60px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.locationLeftUlWrapper {
+  list-style: none;
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.locationLeftUlImg1 {
+  background-image: url(../../images/pineska.png);
+  height: 32px;
+  width: 22px;
+}
+
+.locationLeftUlImg2 {
+  background-image: url(../../images/phone.png);
+  height: 25px;
+  width: 25px;
+  margin-left: -80px;
+}
+.locationLeftUlParagraphs {
+  margin-left: -70px;
+}
+
+.locationText {
+  font-size: 24px;
+  line-height: 33px;
+  font-weight: 100;
+}
+
+.locationSocialMedia {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.locationSocialMediaW {
+  background-image: url("../../images/w.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.locationSocialMediaInstagram {
+  background-image: url("../../images/instagram.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+  background-color: white;
+}
+
+.locationSocialMediaYT {
+  background-image: url("../../images/yt.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 43px;
+  width: 43px;
+  border-radius: 50%;
+  background-color: white;
+}

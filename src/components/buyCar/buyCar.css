@@ -1,0 +1,47 @@
+.buyCar {
+  background-color: #dfe2eb;
+  height: 800px;
+  background-image: url("../../images/porsche.png");
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buyCarText {
+  font-size: 36px;
+  line-height: 50px;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.buyCarContactUs {
+  margin-left: 350px;
+  background-color: white;
+  width: 650px;
+  border-radius: 10px;
+}
+
+.buyCarContacUsText {
+  font-size: 24px;
+  line-height: 37px;
+  font-weight: 100;
+  padding: 45px;
+}
+
+.buyCarContactUsForm {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.buyCarContactUsInput {
+  height: 48px;
+  width: 250px;
+  background-color: #e2e7e9;
+  border-radius: 10px;
+  border: none;
+  margin-right: 32px;
+  margin-bottom: 64px;
+  text-align: center;
+}

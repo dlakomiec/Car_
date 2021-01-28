@@ -1,0 +1,16 @@
+.reviews {
+  height: 400px;
+  background-color: mintcream;
+}
+.reviewsImg {
+  background-image: url("../../images/reviews.png");
+  height: 109px;
+  background-repeat: no-repeat;
+}
+
+.reviewsText {
+  font-size: 36px;
+  font-weight: 700;
+  padding-top: 40px;
+  padding-left: 30px;
+}

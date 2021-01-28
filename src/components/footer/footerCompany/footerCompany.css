@@ -1,0 +1,11 @@
+.footerCompanyWrapper {
+  list-style: none;
+  line-height: 40px;
+  color: #606e8b;
+  font-weight: 100;
+}
+
+.footerH4 {
+  color: black;
+  font-weight: 400;
+}
